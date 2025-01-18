@@ -9,7 +9,7 @@ def fif_pow(n):
 
 def test_sqaure():
     assert sqaure(2)==4 , "Test failed,Sqaure of 2 is 4"
-    assert sqaure(5)==5, "Test Failed"
+    assert sqaure(5)==25, "Test Failed"
 
 def test_cube():
     assert cube(3)==27,"Test Failed"
